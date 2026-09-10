@@ -2,10 +2,12 @@
 
 An AI-powered web application built for the FlyRank Front-end AI Engineering Internship.
 
-## 🚀 Features
-- Modern, responsive user interface built with clean practices.
-- Integrated AI features for enhanced user experience.
-- Clean code architecture following strict conventions (`CLAUDE.md`).
+## 💡 What It Does
+Helps developers and content creators build AI-driven web interfaces effortlessly.
+
+- Generates optimized UI components using AI prompts.
+- Analyzes and improves frontend codebase structure.
+- Integrates seamless AI workflows directly into modern web apps.
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
