@@ -1,0 +1,1 @@
+HTML, CSS, TailwindCss, JavaScript, React.js, Next.js
