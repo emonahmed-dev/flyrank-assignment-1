@@ -346,7 +346,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/emonahmed-dev/flyrank-assignment-1/issues"
   },
