@@ -1,20 +1,16 @@
-# Front-end AI Application (FlyRank Capstone)
+# FlyRank AI — Production AI-Enhanced Frontend Application
 
-An AI-powered web application built for the FlyRank Front-end AI Engineering Internship.
+## Project Brief
+FlyRank is a resilient frontend interface designed for monitoring AI streaming responses, managing error boundaries, and gracefully handling API rate limits or network interruptions. Built for developers and end-users interacting with real-time AI agents, it ensures continuous feedback through skeleton loading states, structured error recovery mechanisms, and responsive retry logic to eliminate standard UI freeze points.
 
-## 💡 What It Does
-Helps developers and content creators build AI-driven web interfaces effortlessly.
+## Live Application & Repository
+* **Live Demo:** [https://fa-health-app.netlify.app](https://fa-health-app.netlify.app)
+* **GitHub Repository:** [https://github.com/emonahmed-dev/flyrank-assignment-1](https://github.com/emonahmed-dev/flyrank-assignment-1)
 
-- Generates optimized UI components using AI prompts.
-- Analyzes and improves frontend codebase structure.
-- Integrates seamless AI workflows directly into modern web apps.
+---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
-- **AI Tooling:** Cursor IDE, Claude Code
-- **Version Control:** Git & GitHub
+## Local Setup & Run Instructions
+Run the following single command to install dependencies and launch the local development server:
 
-## 📝 Setup
-1. Clone the repository: `git clone <repo-url>`
-2. Install dependencies: `npm install`
-3. Run the project: `npm run dev`
+```bash
+npm install && npm run dev
